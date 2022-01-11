@@ -1,6 +1,5 @@
 #
-# system.prop for mido
-#
+# system.prop for 
 
 # Audio
 ro.config.media_vol_steps=25
