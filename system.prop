@@ -2,6 +2,8 @@
 # system.prop for mido
 #
 
+# Maintainer
+ro.cipher.maintainer=Alone0316
 # Audio
 ro.config.media_vol_steps=25
 ro.config.vc_call_vol_steps=6
