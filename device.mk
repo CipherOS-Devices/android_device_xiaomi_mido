@@ -108,7 +108,8 @@ PRODUCT_PACKAGES += \
     libaudio-resampler \
     libqcomvisualizer \
     libqcomvoiceprocessing \
-    libqcompostprocbundle
+    libqcompostprocbundle \
+    sound_trigger.primary.msm8953:32
 
 # Audio features
 PRODUCT_PACKAGES += \
