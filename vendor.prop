@@ -146,6 +146,10 @@ persist.vendor.recovery_update=false
 # Time Services
 persist.backup.ntpServer=0.pool.ntp.org
 
+# SOC
+ro.soc.manufacturer=Qualcomm
+ro.soc.model=MSM8953
+
 # Tcp
 net.tcp.2g_init_rwnd=10
 
